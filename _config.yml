@@ -1,9 +1,9 @@
 # Site settings
-title: MonadWizard
+title: Himu
 description: "A minimal blog template, build with Jekyll."
-url: "https://monadwizard.live"
+url: "#"
 author:
-  name: "Rakib Hasan"
+  name: "Nuhan Hasan Himu"
   email: "monad.wizard.r@gmail.com"
   url: "https://monadwizard.live/blog"
 
