@@ -28,4 +28,4 @@ Furthermore, you will be mindful to understand the indications. We should all be
 
 Diabetes can't be totally controlled. So you ought to counsel your primary care physician and take some control. 
 
-<span style="color:blue">Not today. I'm finishing here wishing everybody well. Stay well, keep well.</span>
+<span style="#800080">Not today. I'm finishing here wishing everybody well. Stay well, keep well.</span>
