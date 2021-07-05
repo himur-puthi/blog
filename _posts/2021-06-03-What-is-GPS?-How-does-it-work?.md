@@ -1,22 +1,28 @@
- GPS is one of the most life-changing technologies of the modern age. We are all more or less familiar with GPS. Suppose you have forgotten a completely unknown place. You can't find a trustworthy person to ask you where you are and how to get home because many people have trouble in unfamiliar places. In this case, G, P, S is the lamp of Ala-Din for you! With GPS tracking, you can discover your method to the right place. 
+***GPS*** is one of the most life-changing technologies of the modern age. We are all more or less familiar with GPS. Suppose you have forgotten a completely unknown place. You can't find a trustworthy person to ask you where you are and how to get home because many people have trouble in unfamiliar places. In this case, G, P, S is the lamp of Ala-Din for you! With GPS tracking, you can discover your method to the right place. 
 
+
+[official Link](https://www.gps.gov/)
  
 
 Let's find out more about GPS tracking:
 
 
-
-https://drive.google.com/file/d/1XE6NHHjamTKj4wyqEpXBHosRaFfQGRQM/view?usp=sharing
-
+> Global Positioning System
 
 
-
+![image](https://drive.google.com/uc?export=view&id=1XE6NHHjamTKj4wyqEpXBHosRaFfQGRQM)
 
 
 
-
-What is G, P, S? And its history:
+## What is G, P, S? And its history:
 GPS is an acronym for 'Global Positioning System.' It is a special kind of technology through which the navigation unit of mobile phones, tablets, laptops, etc., can be found or found very simply. The U.S. Department of Defense, like the Internet, gave rise to GPS. The GPS originated in the United States in the early 1970s. As far as history goes, the U.S. military started the initial work of GPS technology for its own needs in 1986. Although in the beginning, just military work was passed down. It was later opened to the public. Created in 1995 by a combination of 24 satellites, The S-Network was announced as a self-contained system for use from all over the world and was made available to the public. By then, this network had become strong enough.
+
+<br> <br> <br>
+
+
+
+
+
 
 
 How does GPS work?
@@ -28,8 +34,8 @@ From World War I to now, in almost all cases, there is competition between the E
 Parts of GPS: It can be divided into three different categories, which are as follows:
 
 
-Category Search: Refers to satellites about 24 satellites have been distributed on six orbital planes.
-Control Division: This refers to the stations on Earth for satellite maintenance and observation. User category: It refers to the processors of the navigation signals received from the GPS satellite
+* Category Search: Refers to satellites about 24 satellites have been distributed on six orbital planes.
+* Control Division: This refers to the stations on Earth for satellite maintenance and observation. User category: It refers to the processors of the navigation signals received from the GPS satellite
 
 
 Appendix:
