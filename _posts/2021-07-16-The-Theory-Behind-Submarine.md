@@ -2,9 +2,8 @@
 
 
 
-1kb2x_IZpu_0oDV3_jaYNHLruHfT-KHvr/view
 
-
+![image](https://drive.google.com/uc?export=view&id=1kb2x_IZpu_0oDV3_jaYNHLruHfT-KHvr)
 
 
 
@@ -31,8 +30,7 @@ Successfully discovered the submarine. Drebel's sub was made of wood, and the wh
   
   
   **Let me give you an example,**
-  
-  if you fill an empty plastic bottle with air and leave it in water, the bottle will remain floating. If you fill it with water again, the bottle will become heavy and sink. Submarines are controlled following this formula. 
+  <br>if you fill an empty plastic bottle with air and leave it in water, the bottle will remain floating. If you fill it with water again, the bottle will become heavy and sink. Submarines are controlled following this formula. 
   
   
   The sub has some ballast tankers. Water and air are injected inside the tankers with the help of the device. When the hero needs to be sunk, the water in the ballast tanker is injected. Whenever it needs to be floated again, the water from the ballast tanker is taken out, and the air is quickly injected with the device's help. As a result, the submarine floated on the water.
