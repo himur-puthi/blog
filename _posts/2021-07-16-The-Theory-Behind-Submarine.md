@@ -52,6 +52,7 @@ Successfully discovered the submarine. Drebel's sub was made of wood, and the wh
    
    
    
-                                    Be careful not to deal with corona. Wear a mask all the time
-                                    
+   
+   
+Be careful not to deal with corona. Wear a mask all the time                                 
                                     
