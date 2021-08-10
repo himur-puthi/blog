@@ -4,8 +4,8 @@ description: "A minimal blog template, build with Jekyll."
 url: "#"
 author:
   name: "Nuhan Hasan Himu"
-  email: "monad.wizard.r@gmail.com"
-  url: "https://monadwizard.live/blog"
+  email: "mdhimu3637@gmail.com"
+  url: "https://himur-puthi.github.io/blog/"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
