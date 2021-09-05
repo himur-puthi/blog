@@ -1,4 +1,4 @@
-***GPS*** is one of the most life-changing technologies of the modern age. We are all more or less familiar with GPS. Suppose you have forgotten a completely unknown place. You can't find a trustworthy person to ask you where you are and how to get home because many people have trouble in unfamiliar places. In this case, G, P, S is the lamp of Ala-Din for you! With GPS tracking, you can discover your method to the right place. 
+GPS is one of the most life-changing technologies of the modern age. We are all more or less familiar with GPS. Suppose you have forgotten a completely unknown place. You can't find a trustworthy person to ask you where you are and how to get home because many people have trouble in unfamiliar places. In this case, G, P, S is the lamp of Ala-Din for you! With GPS tracking, you can discover your method to the right place. 
 
 
 [official Link](https://www.gps.gov/)
